@@ -1,0 +1,11 @@
+.Car {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.Item {
+    margin-top: 50px;
+    padding: 10px;
+    border: solid 1px;
+    background-color: #e5e7e9;
+}
